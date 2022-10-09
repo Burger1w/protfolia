@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }) {
       <PageProvider>
         <main>
           <head>
-            <title>clqu | Full-stack Developer</title>
+            <title>Kadybot | Full-stack Developer</title>
           </head>
           <CustomCursor />
           <ContextMenu
