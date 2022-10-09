@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'clqu',
+    name: 'kadybot',
     version: '3.0.0',
     githubName: 'Burger1w',
     githubKey: process.env.GITHUB_KEY,
