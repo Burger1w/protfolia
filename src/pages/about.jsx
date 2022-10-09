@@ -17,7 +17,7 @@ export default function About() {
                 <div>
                     <h1 className="text-4xl font-bold">Who Am <span className="relative whitespace-nowrap text-primary">I</span>?</h1>
                     <p className="text-xl mt-1">
-                        Hello, Im clqu. I am 16 years old.
+                        Hello, Im Kadybot. I am 17 years old.
                         I am a 3rd year high school student, I have been dealing with software for about 3 years.
                         I started with PHP, developed with Minecraft Plugins and made my biggest improvement with the latest Discord bot.
                         Since then, software has been more of a hobby for me than a dream, I spent days developing my hobby, I tried to improve my software knowledge for at least 10 hours a day in 1 year, finally here I am.
@@ -26,7 +26,7 @@ export default function About() {
                     
                 </div>
                 <div className="relative flex-shrink-0">
-                    <img src="https://softwareer.net/avatars/clqu" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
+                    <img src="https://cdn.discordapp.com/avatars/1005112531431469136/6fb14296075f4edbe1e5ae0a75d03666.webp?size=1024" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
                     <div className="-right-3 top-3 absolute w-full h-full top-0 right-0 border-4 rounded-full lg:rounded-lg border-primary bg-gradient-to-t from-primary" />
                 </div>
             </div>
